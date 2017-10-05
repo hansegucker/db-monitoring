@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+
+body {
+    padding: 5px;
+    background-color: #022161;
+    color: white;
+}
+
+table, tr, td, th, thead {
+   background-color: #022161; 
+}
+
+.db-train-key, .db-time, .db-stops, .db-destination, .db-platform {
+    font-size: 30px;
+
+}
+
+.db-train-key, .db-time {
+    background-color: white;
+    color: #022161;
+}
+
+.db-stops {
+    font-size: 20px;
+}
