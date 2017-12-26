@@ -1,0 +1,3 @@
+[submodule "phpbahn"]
+	path = phpbahn
+	url = git@github.com:jamct/phpbahn.git

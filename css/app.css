@@ -6,6 +6,17 @@ body {
     color: white;
 }
 
+footer {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    padding: 10px;
+
+    background-color: #022161;
+}
+
 table, tr, td, th, thead {
    background-color: #022161; 
 }
@@ -22,4 +33,13 @@ table, tr, td, th, thead {
 
 .db-stops {
     font-size: 20px;
+}
+
+.db-old {
+    text-decoration: line-through;
+    text-decoration-color: red;
+}
+
+.db-new {
+    color: red;
 }

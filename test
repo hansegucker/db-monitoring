@@ -1,0 +1,1696 @@
+Array
+(
+    [4099684208263039472-1712260605-15] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => 80
+                    [class] => IC
+                    [number] => 2212
+                )
+
+            [arrival] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261113
+                            [platform] => 12
+                            [route] => Array
+                                (
+                                    [0] => Koblenz Hbf
+                                    [1] => Andernach
+                                    [2] => Remagen
+                                    [3] => Bonn Hbf
+                                    [4] => Köln Hbf
+                                    [5] => Düsseldorf Hbf
+                                    [6] => Duisburg Hbf
+                                    [7] => Essen Hbf
+                                    [8] => Bochum Hbf
+                                    [9] => Dortmund Hbf
+                                    [10] => Münster(Westf)Hbf
+                                    [11] => Osnabrück Hbf
+                                    [12] => Bremen Hbf
+                                    [13] => Hamburg-Harburg
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261123
+                        )
+
+                )
+
+            [departure] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261142
+                            [platform] => 12
+                            [route] => Array
+                                (
+                                    [0] => Schwerin Hbf
+                                    [1] => Bützow
+                                    [2] => Rostock Hbf
+                                    [3] => Ribnitz-Damgarten West
+                                    [4] => Velgast
+                                    [5] => Stralsund Hbf
+                                    [6] => Bergen auf Rügen
+                                    [7] => Ostseebad Binz
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261142
+                        )
+
+                )
+
+            [line] => IC2212
+        )
+
+    [-2255696347421597395-1712261143-1] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => 800201
+                    [class] => RE
+                    [number] => 21114
+                )
+
+            [departure] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261143
+                            [platform] => 13D-F
+                            [route] => Array
+                                (
+                                    [0] => Hamburg Dammtor
+                                    [1] => Elmshorn
+                                    [2] => Neumünster
+                                    [3] => Einfeld
+                                    [4] => Bordesholm
+                                    [5] => Flintbek
+                                    [6] => Kiel Hbf
+                                )
+
+                        )
+
+                )
+
+            [line] => 7
+        )
+
+    [8764999547447809344-1712261108-1] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => 800279
+                    [class] => RB
+                    [number] => 21364
+                )
+
+            [departure] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261108
+                            [platform] => 5D-E
+                            [route] => Array
+                                (
+                                    [0] => Hamburg Hasselbrook
+                                    [1] => Hamburg-Wandsbek
+                                    [2] => Hamburg-Tonndorf
+                                    [3] => Hamburg-Rahlstedt
+                                    [4] => Ahrensburg
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261111
+                        )
+
+                )
+
+            [line] => 81
+        )
+
+    [-630548576392949697-1712261104-1] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => 800279
+                    [class] => RE
+                    [number] => 21414
+                )
+
+            [departure] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261104
+                            [platform] => 5A-C
+                            [route] => Array
+                                (
+                                    [0] => Bad Oldesloe
+                                    [1] => Reinfeld(Holst)
+                                    [2] => Lübeck Hbf
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261109
+                        )
+
+                )
+
+            [line] => 8
+        )
+
+    [1228719467700398416-1712260816-6] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => 80
+                    [class] => ICE
+                    [number] => 1526
+                )
+
+            [arrival] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261124
+                            [platform] => 8
+                            [route] => Array
+                                (
+                                    [0] => Leipzig Hbf
+                                    [1] => Lutherstadt Wittenberg Hbf
+                                    [2] => Berlin Südkreuz
+                                    [3] => Berlin Hbf (tief)
+                                    [4] => Berlin-Spandau
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261124
+                        )
+
+                )
+
+            [departure] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261127
+                            [platform] => 8
+                            [route] => Array
+                                (
+                                    [0] => Hamburg Dammtor
+                                    [1] => Hamburg-Altona
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261127
+                        )
+
+                )
+
+            [line] => ICE1526
+        )
+
+    [8295191779129130249-1712260915-11] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => 800201
+                    [class] => RE
+                    [number] => 21065
+                )
+
+            [arrival] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261115
+                            [platform] => 13D-F
+                            [route] => Array
+                                (
+                                    [0] => Flensburg
+                                    [1] => Tarp
+                                    [2] => Jübek
+                                    [3] => Schleswig
+                                    [4] => Owschlag
+                                    [5] => Rendsburg
+                                    [6] => Nortorf
+                                    [7] => Neumünster
+                                    [8] => Elmshorn
+                                    [9] => Hamburg Dammtor
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261123
+                        )
+
+                )
+
+            [line] => 7
+        )
+
+    [-2913939111924380934-1712261138-1] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => R1
+                    [class] => ME
+                    [number] => 81917
+                )
+
+            [departure] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261138
+                            [platform] => 13A-C
+                            [route] => Array
+                                (
+                                    [0] => Hamburg-Harburg
+                                    [1] => Hittfeld
+                                    [2] => Klecken
+                                    [3] => Buchholz(Nordheide)
+                                    [4] => Sprötze
+                                    [5] => Tostedt
+                                    [6] => Lauenbrück
+                                    [7] => Scheeßel
+                                    [8] => Rotenburg(Wümme)
+                                    [9] => Sottrum
+                                    [10] => Ottersberg(Han)
+                                    [11] => Sagehorn
+                                    [12] => Bremen-Oberneuland
+                                    [13] => Bremen Hbf
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261138
+                        )
+
+                )
+
+            [line] => RB41
+        )
+
+    [-4526666360188253894-1712260907-18] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => 800155
+                    [class] => RE
+                    [number] => 4306
+                )
+
+            [arrival] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261138
+                            [platform] => 7A-D
+                            [route] => Array
+                                (
+                                    [0] => Rostock Hbf
+                                    [1] => Schwaan
+                                    [2] => Bützow
+                                    [3] => Blankenberg(Meckl)
+                                    [4] => Ventschow
+                                    [5] => Bad Kleinen
+                                    [6] => Schwerin Hbf
+                                    [7] => Schwerin Süd
+                                    [8] => Hagenow Land
+                                    [9] => Pritzier
+                                    [10] => Brahlstorf
+                                    [11] => Boizenburg(Elbe)
+                                    [12] => Schwanheide
+                                    [13] => Büchen
+                                    [14] => Müssen
+                                    [15] => Schwarzenbek
+                                    [16] => Hamburg-Bergedorf
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261140
+                        )
+
+                )
+
+            [line] => 1
+        )
+
+    [-4210007047463713468-1712261106-1] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => O0
+                    [class] => NBE
+                    [number] => 75520
+                )
+
+            [departure] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261106
+                            [platform] => 13D-F
+                            [route] => Array
+                                (
+                                    [0] => Hamburg Dammtor
+                                    [1] => Pinneberg
+                                    [2] => Prisdorf
+                                    [3] => Tornesch
+                                    [4] => Elmshorn
+                                    [5] => Herzhorn
+                                    [6] => Glückstadt
+                                    [7] => Krempe
+                                    [8] => Kremperheide
+                                    [9] => Itzehoe
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261107
+                        )
+
+                )
+
+            [line] => RB61
+        )
+
+    [-8217445912073554757-1712261138-1] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => 800279
+                    [class] => RB
+                    [number] => 21316
+                )
+
+            [departure] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261138
+                            [platform] => 5
+                            [route] => Array
+                                (
+                                    [0] => Hamburg Hasselbrook
+                                    [1] => Hamburg-Wandsbek
+                                    [2] => Hamburg-Tonndorf
+                                    [3] => Hamburg-Rahlstedt
+                                    [4] => Ahrensburg
+                                    [5] => Ahrensburg-Gartenholz
+                                    [6] => Bargteheide
+                                    [7] => Kupfermühle
+                                    [8] => Bad Oldesloe
+                                )
+
+                        )
+
+                )
+
+            [line] => 81
+        )
+
+    [-2298726232551513565-1712260959-15] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => R1
+                    [class] => ME
+                    [number] => 81916
+                )
+
+            [arrival] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261124
+                            [platform] => 13A-C
+                            [route] => Array
+                                (
+                                    [0] => Bremen Hbf
+                                    [1] => Bremen-Oberneuland
+                                    [2] => Sagehorn
+                                    [3] => Ottersberg(Han)
+                                    [4] => Sottrum
+                                    [5] => Rotenburg(Wümme)
+                                    [6] => Scheeßel
+                                    [7] => Lauenbrück
+                                    [8] => Tostedt
+                                    [9] => Sprötze
+                                    [10] => Buchholz(Nordheide)
+                                    [11] => Klecken
+                                    [12] => Hittfeld
+                                    [13] => Hamburg-Harburg
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261127
+                        )
+
+                )
+
+            [line] => RB41
+        )
+
+    [-2232564093102165965-1712261118-1] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => 800279
+                    [class] => RE
+                    [number] => 21863
+                )
+
+            [departure] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261118
+                            [platform] => 11
+                            [route] => Array
+                                (
+                                    [0] => Hamburg-Bergedorf
+                                    [1] => Friedrichsruh
+                                    [2] => Schwarzenbek
+                                    [3] => Müssen
+                                    [4] => Büchen
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261118
+                            [platform] => 8
+                        )
+
+                )
+
+            [line] => 1
+        )
+
+    [8488079911860258507-1712260633-8] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => 80
+                    [class] => ICE
+                    [number] => 784
+                )
+
+            [arrival] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261054
+                            [platform] => 8
+                            [route] => Array
+                                (
+                                    [0] => Nürnberg Hbf
+                                    [1] => Würzburg Hbf
+                                    [2] => Fulda
+                                    [3] => Kassel-Wilhelmshöhe
+                                    [4] => Göttingen
+                                    [5] => Hannover Hbf
+                                    [6] => Hamburg-Harburg
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261058
+                            [platform] => 12
+                        )
+
+                )
+
+            [departure] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261101
+                            [platform] =>
+                            [route] => Array
+                                (
+                                    [0] => Hamburg Dammtor
+                                    [1] => Hamburg-Altona
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261101
+                            [platform] => 12
+                        )
+
+                )
+
+            [line] => ICE784
+        )
+
+    [764204352878060315-1712261108-4] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => 800279
+                    [class] => RE
+                    [number] => 21415
+                )
+
+            [arrival] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261151
+                            [platform] => 5A-C
+                            [route] => Array
+                                (
+                                    [0] => Lübeck Hbf
+                                    [1] => Reinfeld(Holst)
+                                    [2] => Bad Oldesloe
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261152
+                        )
+
+                )
+
+            [line] => 8
+        )
+
+    [5797981650559212701-1712261146-3] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => 80
+                    [class] => ICE
+                    [number] => 789
+                )
+
+            [arrival] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261158
+                            [platform] => 14
+                            [route] => Array
+                                (
+                                    [0] => Hamburg-Altona
+                                    [1] => Hamburg Dammtor
+                                )
+
+                        )
+
+                )
+
+            [departure] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261201
+                            [platform] => 14
+                            [route] => Array
+                                (
+                                    [0] => Hamburg-Harburg
+                                    [1] => Hannover Hbf
+                                    [2] => Göttingen
+                                    [3] => Kassel-Wilhelmshöhe
+                                    [4] => Fulda
+                                    [5] => Würzburg Hbf
+                                    [6] => Nürnberg Hbf
+                                    [7] => Ingolstadt Hbf
+                                    [8] => München Hbf
+                                )
+
+                        )
+
+                )
+
+            [line] => ICE789
+        )
+
+    [-3797667997925040352-1712260849-7] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => 80
+                    [class] => IC
+                    [number] => 2072
+                )
+
+            [arrival] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261111
+                            [platform] => 6
+                            [route] => Array
+                                (
+                                    [0] => Berlin Südkreuz
+                                    [1] => Berlin Hbf (tief)
+                                    [2] => Berlin-Spandau
+                                    [3] => Wittenberge
+                                    [4] => Ludwigslust
+                                    [5] => Büchen
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261112
+                        )
+
+                )
+
+            [departure] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261116
+                            [platform] => 6
+                            [route] => Array
+                                (
+                                    [0] => Hamburg Dammtor
+                                    [1] => Itzehoe
+                                    [2] => Heide(Holst)
+                                    [3] => Husum
+                                    [4] => Niebüll
+                                    [5] => Westerland(Sylt)
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261116
+                        )
+
+                )
+
+            [line] => IC2072
+        )
+
+    [-7349658906660264527-1712261113-3] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => 80
+                    [class] => IC
+                    [number] => 1993
+                )
+
+            [arrival] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261125
+                            [platform] => 11
+                            [route] => Array
+                                (
+                                    [0] => Hamburg-Altona
+                                    [1] => Hamburg Dammtor
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261127
+                        )
+
+                )
+
+            [departure] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261128
+                            [platform] => 11
+                            [route] => Array
+                                (
+                                    [0] => Uelzen
+                                    [1] => Hannover Hbf
+                                    [2] => Göttingen
+                                    [3] => Kassel-Wilhelmshöhe
+                                    [4] => Fulda
+                                    [5] => Hanau Hbf
+                                    [6] => Frankfurt(Main)Hbf
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261130
+                        )
+
+                )
+
+            [line] => IC1993
+        )
+
+    [5234219390313474248-1712261030-10] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => 800279
+                    [class] => RB
+                    [number] => 21313
+                )
+
+            [arrival] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261113
+                            [platform] => 5
+                            [route] => Array
+                                (
+                                    [0] => Bad Oldesloe
+                                    [1] => Kupfermühle
+                                    [2] => Bargteheide
+                                    [3] => Ahrensburg-Gartenholz
+                                    [4] => Ahrensburg
+                                    [5] => Hamburg-Rahlstedt
+                                    [6] => Hamburg-Tonndorf
+                                    [7] => Hamburg-Wandsbek
+                                    [8] => Hamburg Hasselbrook
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261118
+                        )
+
+                )
+
+            [line] => 81
+        )
+
+    [1007082014350364628-1712261033-6] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => R1
+                    [class] => ME
+                    [number] => 82014
+                )
+
+            [arrival] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261142
+                            [platform] => 13A-C
+                            [route] => Array
+                                (
+                                    [0] => Bremen Hbf
+                                    [1] => Rotenburg(Wümme)
+                                    [2] => Tostedt
+                                    [3] => Buchholz(Nordheide)
+                                    [4] => Hamburg-Harburg
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261144
+                        )
+
+                )
+
+            [line] => RE4
+        )
+
+    [841077657761633745-1712260511-11] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => 80
+                    [class] => ICE
+                    [number] => 674
+                )
+
+            [arrival] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261135
+                            [platform] => 11
+                            [route] => Array
+                                (
+                                    [0] => Basel Bad Bf
+                                    [1] => Freiburg(Breisgau) Hbf
+                                    [2] => Offenburg
+                                    [3] => Baden-Baden
+                                    [4] => Karlsruhe Hbf
+                                    [5] => Mannheim Hbf
+                                    [6] => Frankfurt(Main)Hbf
+                                    [7] => Kassel-Wilhelmshöhe
+                                    [8] => Göttingen
+                                    [9] => Hannover Hbf
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261135
+                        )
+
+                )
+
+            [departure] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261138
+                            [platform] => 11
+                            [route] => Array
+                                (
+                                    [0] => Hamburg Dammtor
+                                    [1] => Neumünster
+                                    [2] => Kiel Hbf
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261140
+                        )
+
+                )
+
+            [line] => ICE674
+        )
+
+    [3195423717470159042-1712260617-11] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => 80
+                    [class] => ICE
+                    [number] => 986
+                )
+
+            [arrival] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261156
+                            [platform] => 12
+                            [route] => Array
+                                (
+                                    [0] => München Hbf
+                                    [1] => Ingolstadt Hbf
+                                    [2] => Nürnberg Hbf
+                                    [3] => Würzburg Hbf
+                                    [4] => Fulda
+                                    [5] => Kassel-Wilhelmshöhe
+                                    [6] => Göttingen
+                                    [7] => Hannover Hbf
+                                    [8] => Lüneburg
+                                    [9] => Hamburg-Harburg
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261158
+                        )
+
+                )
+
+            [departure] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261159
+                            [platform] => 12
+                            [route] => Array
+                                (
+                                    [0] => Hamburg Dammtor
+                                    [1] => Hamburg-Altona
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261201
+                        )
+
+                )
+
+            [line] => ICE986
+        )
+
+    [3137241552710692842-1712261009-13] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => R1
+                    [class] => ME
+                    [number] => 81514
+                )
+
+            [arrival] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261154
+                            [platform] => 8
+                            [route] => Array
+                                (
+                                    [0] => Cuxhaven
+                                    [1] => Otterndorf
+                                    [2] => Cadenberge
+                                    [3] => Wingst
+                                    [4] => Hemmoor
+                                    [5] => Hechthausen
+                                    [6] => Himmelpforten
+                                    [7] => Hammah
+                                    [8] => Stade
+                                    [9] => Horneburg
+                                    [10] => Buxtehude
+                                    [11] => Hamburg-Harburg
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261154
+                        )
+
+                )
+
+            [line] => RE5
+        )
+
+    [-4384548506268273312-1712261157-1] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => R1
+                    [class] => ME
+                    [number] => 82115
+                )
+
+            [departure] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261157
+                            [platform] => 13A-C
+                            [route] => Array
+                                (
+                                    [0] => Hamburg-Harburg
+                                    [1] => Winsen(Luhe)
+                                    [2] => Lüneburg
+                                    [3] => Bienenbüttel
+                                    [4] => Bad Bevensen
+                                    [5] => Uelzen
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261157
+                        )
+
+                )
+
+            [line] => RE3
+        )
+
+    [5275087419274452307-1712261027-8] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => 800201
+                    [class] => RE
+                    [number] => 21015
+                )
+
+            [arrival] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261137
+                            [platform] => 7G-I
+                            [route] => Array
+                                (
+                                    [0] => Kiel Hbf
+                                    [1] => Bordesholm
+                                    [2] => Neumünster
+                                    [3] => Brokstedt
+                                    [4] => Wrist
+                                    [5] => Elmshorn
+                                    [6] => Hamburg Dammtor
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261138
+                        )
+
+                )
+
+            [line] => 70
+        )
+
+    [3868889213374348128-1712261107-3] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => 80
+                    [class] => ICE
+                    [number] => 577
+                )
+
+            [arrival] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261119
+                            [platform] => 14
+                            [route] => Array
+                                (
+                                    [0] => Hamburg-Altona
+                                    [1] => Hamburg Dammtor
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261119
+                        )
+
+                )
+
+            [departure] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261124
+                            [platform] => 14
+                            [route] => Array
+                                (
+                                    [0] => Hannover Hbf
+                                    [1] => Göttingen
+                                    [2] => Kassel-Wilhelmshöhe
+                                    [3] => Frankfurt(Main)Hbf
+                                    [4] => Frankfurt(M) Flughafen Fernbf
+                                    [5] => Mannheim Hbf
+                                    [6] => Stuttgart Hbf
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261125
+                        )
+
+                )
+
+            [line] => ICE577
+        )
+
+    [-4803413020616385260-1712261121-3] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => 80
+                    [class] => ICE
+                    [number] => 707
+                )
+
+            [arrival] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261132
+                            [platform] => 6
+                            [route] => Array
+                                (
+                                    [0] => Hamburg-Altona
+                                    [1] => Hamburg Dammtor
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261147
+                        )
+
+                )
+
+            [departure] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261138
+                            [platform] => 6
+                            [route] => Array
+                                (
+                                    [0] => Berlin-Spandau
+                                    [1] => Berlin Hbf (tief)
+                                    [2] => Berlin Südkreuz
+                                    [3] => Bitterfeld
+                                    [4] => Halle(Saale)Hbf
+                                    [5] => Erfurt Hbf
+                                    [6] => Erlangen
+                                    [7] => Nürnberg Hbf
+                                    [8] => Donauwörth
+                                    [9] => Augsburg Hbf
+                                    [10] => München-Pasing
+                                    [11] => München Hbf
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261150
+                        )
+
+                )
+
+            [line] => ICE707
+        )
+
+    [-5638658020141948967-1712261130-3] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => 80
+                    [class] => IC
+                    [number] => 2027
+                )
+
+            [arrival] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261142
+                            [platform] => 14
+                            [route] => Array
+                                (
+                                    [0] => Hamburg-Altona
+                                    [1] => Hamburg Dammtor
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261143
+                        )
+
+                )
+
+            [departure] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261146
+                            [platform] => 14
+                            [route] => Array
+                                (
+                                    [0] => Hamburg-Harburg
+                                    [1] => Bremen Hbf
+                                    [2] => Osnabrück Hbf
+                                    [3] => Münster(Westf)Hbf
+                                    [4] => Dortmund Hbf
+                                    [5] => Hagen Hbf
+                                    [6] => Wuppertal Hbf
+                                    [7] => Solingen Hbf
+                                    [8] => Köln Hbf
+                                    [9] => Bonn Hbf
+                                    [10] => Koblenz Hbf
+                                    [11] => Mainz Hbf
+                                    [12] => Frankfurt(M) Flughafen Fernbf
+                                    [13] => Frankfurt(Main)Hbf
+                                    [14] => Hanau Hbf
+                                    [15] => Aschaffenburg Hbf
+                                    [16] => Würzburg Hbf
+                                    [17] => Nürnberg Hbf
+                                    [18] => Regensburg Hbf
+                                    [19] => Straubing
+                                    [20] => Plattling
+                                    [21] => Passau Hbf
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261146
+                        )
+
+                )
+
+            [line] => IC2027
+        )
+
+    [-4788303791955844301-1712261002-7] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => R1
+                    [class] => ME
+                    [number] => 82112
+                )
+
+            [arrival] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261101
+                            [platform] => 13A-C
+                            [route] => Array
+                                (
+                                    [0] => Uelzen
+                                    [1] => Bad Bevensen
+                                    [2] => Bienenbüttel
+                                    [3] => Lüneburg
+                                    [4] => Winsen(Luhe)
+                                    [5] => Hamburg-Harburg
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261104
+                        )
+
+                )
+
+            [line] => RE3
+        )
+
+    [-7453810721306932927-1712261046-3] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => 80
+                    [class] => ICE
+                    [number] => 587
+                )
+
+            [arrival] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261058
+                            [platform] => 14
+                            [route] => Array
+                                (
+                                    [0] => Hamburg-Altona
+                                    [1] => Hamburg Dammtor
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261059
+                        )
+
+                )
+
+            [departure] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261101
+                            [platform] => 14
+                            [route] => Array
+                                (
+                                    [0] => Hamburg-Harburg
+                                    [1] => Hannover Hbf
+                                    [2] => Göttingen
+                                    [3] => Kassel-Wilhelmshöhe
+                                    [4] => Fulda
+                                    [5] => Würzburg Hbf
+                                    [6] => Nürnberg Hbf
+                                    [7] => Donauwörth
+                                    [8] => Augsburg Hbf
+                                    [9] => München-Pasing
+                                    [10] => München Hbf
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261102
+                        )
+
+                )
+
+            [line] => ICE587
+        )
+
+    [-6871825523498218090-1712261119-6] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => 800279
+                    [class] => RB
+                    [number] => 21365
+                )
+
+            [arrival] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261143
+                            [platform] => 5D-E
+                            [route] => Array
+                                (
+                                    [0] => Ahrensburg
+                                    [1] => Hamburg-Rahlstedt
+                                    [2] => Hamburg-Tonndorf
+                                    [3] => Hamburg-Wandsbek
+                                    [4] => Hamburg Hasselbrook
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261143
+                        )
+
+                )
+
+            [line] => 81
+        )
+
+    [2935130208286979399-1712261001-6] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => 80
+                    [class] => IC
+                    [number] => 2378
+                )
+
+            [arrival] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261129
+                            [platform] => 14
+                            [route] => Array
+                                (
+                                    [0] => Hannover Hbf
+                                    [1] => Celle
+                                    [2] => Uelzen
+                                    [3] => Lüneburg
+                                    [4] => Hamburg-Harburg
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261129
+                        )
+
+                )
+
+            [departure] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261133
+                            [platform] => 14
+                            [route] => Array
+                                (
+                                    [0] => Hamburg Dammtor
+                                    [1] => Hamburg-Altona
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261134
+                        )
+
+                )
+
+            [line] => IC2378
+        )
+
+    [-6812705754883244725-1712261115-1] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => R1
+                    [class] => ME
+                    [number] => 82013
+                )
+
+            [departure] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261115
+                            [platform] => 13A-C
+                            [route] => Array
+                                (
+                                    [0] => Hamburg-Harburg
+                                    [1] => Buchholz(Nordheide)
+                                    [2] => Tostedt
+                                    [3] => Rotenburg(Wümme)
+                                    [4] => Bremen Hbf
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261115
+                        )
+
+                )
+
+            [line] => RE4
+        )
+
+    [-81366864917137282-1712261122-1] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => 800201
+                    [class] => RE
+                    [number] => 21014
+                )
+
+            [departure] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261122
+                            [platform] => 7
+                            [route] => Array
+                                (
+                                    [0] => Hamburg Dammtor
+                                    [1] => Elmshorn
+                                    [2] => Wrist
+                                    [3] => Brokstedt
+                                    [4] => Neumünster
+                                    [5] => Bordesholm
+                                    [6] => Kiel Hbf
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261123
+                        )
+
+                )
+
+            [line] => 70
+        )
+
+    [-8628529736247051457-1712261106-1] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => R1
+                    [class] => ME
+                    [number] => 81513
+                )
+
+            [departure] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261106
+                            [platform] => 11A-C
+                            [route] => Array
+                                (
+                                    [0] => Hamburg-Harburg
+                                    [1] => Buxtehude
+                                    [2] => Horneburg
+                                    [3] => Stade
+                                    [4] => Hammah
+                                    [5] => Himmelpforten
+                                    [6] => Hechthausen
+                                    [7] => Hemmoor
+                                    [8] => Wingst
+                                    [9] => Cadenberge
+                                    [10] => Otterndorf
+                                    [11] => Cuxhaven
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261106
+                        )
+
+                )
+
+            [line] => RE5
+        )
+
+    [-4785189941150615406-1712261054-11] => Array
+        (
+            [train] => Array
+                (
+                    [type] => p
+                    [owner] => O0
+                    [class] => NBE
+                    [number] => 75525
+                )
+
+            [arrival] => Array
+                (
+                    [planned] => Array
+                        (
+                            [time] => 1712261153
+                            [platform] => 13D-F
+                            [route] => Array
+                                (
+                                    [0] => Itzehoe
+                                    [1] => Kremperheide
+                                    [2] => Krempe
+                                    [3] => Glückstadt
+                                    [4] => Herzhorn
+                                    [5] => Elmshorn
+                                    [6] => Tornesch
+                                    [7] => Prisdorf
+                                    [8] => Pinneberg
+                                    [9] => Hamburg Dammtor
+                                )
+
+                        )
+
+                    [changed] => Array
+                        (
+                            [time] => 1712261153
+                        )
+
+                )
+
+            [line] => RB61
+        )
+
+)

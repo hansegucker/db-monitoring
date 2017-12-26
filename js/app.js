@@ -10,7 +10,7 @@ function loadMain () {
 }
 
 function loaderMain () {
-    window.setTimeout(loaderMain, 1000);
+    window.setTimeout(loaderMain, 5000);
     loadMain();
 }
 
@@ -22,7 +22,7 @@ function loadHeader () {
 }
 
 function loaderHeader () {
-    window.setTimeout(loaderHeader, 1000);
+    window.setTimeout(loaderHeader, 5000);
     loadHeader();
 }
 
@@ -34,7 +34,7 @@ function loadFooter () {
 }
 
 function loaderFooter () {
-    window.setTimeout(loaderFooter, 1000);
+    window.setTimeout(loaderFooter, 5000);
     loadFooter();
 }
 
